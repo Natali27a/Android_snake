@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-Snake.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-Snake.iml" group="Snake" />
+      <module fileurl="file://$PROJECT_DIR$/Snake.iml" filepath="$PROJECT_DIR$/Snake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Snake-app/Snake-Snake-app.iml" filepath="$PROJECT_DIR$/.idea/modules/Snake-app/Snake-Snake-app.iml" group="Snake/Snake-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Snake-app/Snake-app.iml" filepath="$PROJECT_DIR$/.idea/modules/Snake-app/Snake-app.iml" group="Snake-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Snake-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Snake-master.iml" group="Snake-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
